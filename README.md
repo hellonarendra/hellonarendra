@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hellonarendra
-- 👀 I’m interested in Web development.
-Currently I am learning Angular.
+- 👋 Hi, I’m Narendra
+- 👀 I am a full stack developer at Paymentus.
 - 📫 How to reach me : narendra.verma8005@gmail.com
 
 <!---
